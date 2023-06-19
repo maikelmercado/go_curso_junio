@@ -21,4 +21,18 @@ Go run main.go
 
 go build main.go
 
+// variables icono azul - funciones cuadrado
 
+// github 
+git log -  			cambios que afecto el proyecto 
+git status cambios 
+git add . para copiar todo
+
+variables 
+funciones
+condiciones
+= asignacion
+== comparacion
+<> mayor y menor
+// operadores 
+&&  ||
