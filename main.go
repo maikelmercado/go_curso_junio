@@ -33,6 +33,7 @@ func main() {
 	//internal.IngresoNumero()
 
 	//06_ciclos
-	internal.Ciclos()
+	//internal.Ciclos()
+	internal.Iteracion()
 
 }
