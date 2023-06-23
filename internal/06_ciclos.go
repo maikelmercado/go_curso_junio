@@ -1,12 +1,12 @@
 package internal
 
-import(
+import (
 	"fmt"
 )
 
-func Ciclos(){
+func Ciclos() {
 	for {
-		fmt.Println("hola")
+		fmt.Println("prueba oficial")
 		break
 	}
 }
